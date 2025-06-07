@@ -26,7 +26,7 @@ A lightweight Bluetooth-to-HTTP file transfer system. Send files over Bluetooth 
 
 1. **Clone this repository**  
    ```bash
-   git clone https://github.com/yourusername/obex-http-gateway.git
+   git clone https://github.com/moonetics/obex-http-gateway.git
    cd obex-http-gateway
    ```
 
